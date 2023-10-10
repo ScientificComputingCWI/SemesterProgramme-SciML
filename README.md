@@ -4,7 +4,7 @@ Course material for the autumn school in scientific machine learning 2023.
 
 ## Day 1: closure models and turbulence
 - Andrea Beck
-- Romit Maulik
+- Romit Maulik: [slides](presentations/Differentiable_Turbulence.pdf)
 - Syver Agdestein, Benjamin Sanderse:
     - [slides](presentations/SanderseAgdestein_closure_models.pdf)
     - [code](https://github.com/agdestein/NeuralClosure)
