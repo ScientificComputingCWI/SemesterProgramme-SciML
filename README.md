@@ -15,4 +15,5 @@ Course material for the autumn school in scientific machine learning 2023.
 
 ## Day 3: SINDy
 - Urban Fasel:
-    - [code](https://github.com/urban-fasel/CWI_Autumn_School_2023)
+    - [Matlab code and slides](https://github.com/urban-fasel/CWI_Autumn_School_2023)
+    - [Python code PySINDy](https://github.com/dynamicslab/pysindy)
