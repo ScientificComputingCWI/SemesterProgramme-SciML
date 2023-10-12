@@ -18,3 +18,7 @@ Course material for the autumn school in scientific machine learning 2023.
 - Urban Fasel:
     - [Matlab code and slides](https://github.com/urban-fasel/CWI_Autumn_School_2023)
     - [Python code PySINDy](https://github.com/dynamicslab/pysindy)
+ 
+## Day 4: Operator and equivariant learning
+- Paris Perdikaris
+- Erik Bekkers: [slides and code](https://uvagedl.github.io/)
