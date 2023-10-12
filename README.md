@@ -1,6 +1,8 @@
 # Autumn school 2023
 
-Course material for the autumn school in scientific machine learning 2023.
+Course material for the autumn school in scientific machine learning, 9-13 October 2023, CWI Amsterdam.
+
+![Group picture](pictures/MK3_6099.JPG)
 
 ## Day 1: closure models and turbulence
 - Andrea Beck: [slides](presentations/cwi_school_andreabeck_content_complete_handout_compressed.pdf)
