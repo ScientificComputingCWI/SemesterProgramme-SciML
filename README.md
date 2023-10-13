@@ -6,14 +6,14 @@ Course material for the autumn school in scientific machine learning, 9-13 Octob
 
 ![Group picture](pictures/MK3_6099.JPG)
 
-## Day 1: closure models and turbulence
+## Day 1: Closure models and turbulence
 - Andrea Beck: [slides](presentations/cwi_school_andreabeck_content_complete_handout_compressed.pdf)
 - Romit Maulik: [slides](presentations/Differentiable_Turbulence.pdf)
 - Syver Agdestein, Benjamin Sanderse:
     - [slides](presentations/SanderseAgdestein_closure_models.pdf)
     - [code](https://github.com/agdestein/NeuralClosure)
  
-## Day 2: reduced-order models
+## Day 2: Reduced-order models
 - Andrea Manzoni & Mengwu Guo, see [Mengwu's website](https://www.mengwuguo.com/teaching.html)
 - Karen Veroy: [slides](presentations/Autumn%20School%20-%20Veroy-Grepl.pdf)
 
@@ -26,4 +26,8 @@ Course material for the autumn school in scientific machine learning, 9-13 Octob
 ## Day 4: Operator and equivariant learning
 - Paris Perdikaris: [slides](presentations/slides_paris.pdf)
 - Erik Bekkers: [slides and code](https://uvagedl.github.io/)
+
+## Day 5: Differentiable simulators
+- Chris Rackauckas
+- Benjamin Sanderse: [wrap-up](presentations/Sanderse_wrapup.pdf)
 
