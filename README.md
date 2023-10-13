@@ -2,6 +2,8 @@
 
 Course material for the autumn school in scientific machine learning, 9-13 October 2023, CWI Amsterdam.
 
+**[Evaluation form](https://forms.gle/ETNMbYRfWWG8Ppxg7)**
+
 ![Group picture](pictures/MK3_6099.JPG)
 
 ## Day 1: closure models and turbulence
@@ -22,5 +24,6 @@ Course material for the autumn school in scientific machine learning, 9-13 Octob
     - [Python code PySINDy](https://github.com/dynamicslab/pysindy)
  
 ## Day 4: Operator and equivariant learning
-- Paris Perdikaris
+- Paris Perdikaris: [slides](presentations/slides_paris.pdf)
 - Erik Bekkers: [slides and code](https://uvagedl.github.io/)
+
