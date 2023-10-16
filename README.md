@@ -26,7 +26,9 @@ Course material for the autumn school in scientific machine learning, 9-13 Octob
 - Erik Bekkers: [slides and code](https://uvagedl.github.io/)
 
 ## Day 5: Differentiable simulators
-- Chris Rackauckas
+- Chris Rackauckas [slides](presentations/DifferentiableSimulation_TheRealBits_Rackauckas.pdf)
+    - Demonstration that standard uncorrected AD can produced incorrect results on ODE codes [code](presentations/uncorrected_ad.jl)
+    - Demonstration code for how PDEBench's Burgers implementation is >100x slower than a proper classical inverse problem simulator and the optimization process [code](presentations/optimized_burgers.jl)
 - Hod Lipson: [slides](presentations/AutomatingDiscovery.pdf)
 - Benjamin Sanderse: [wrap-up](presentations/Sanderse_wrapup.pdf)
 
