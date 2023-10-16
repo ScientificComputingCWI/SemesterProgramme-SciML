@@ -29,5 +29,6 @@ Course material for the autumn school in scientific machine learning, 9-13 Octob
 
 ## Day 5: Differentiable simulators
 - Chris Rackauckas
+- Hod Lipson: [slides](presentations/AutomatingDiscovery.pdf)
 - Benjamin Sanderse: [wrap-up](presentations/Sanderse_wrapup.pdf)
 
