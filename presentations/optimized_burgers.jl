@@ -1,3 +1,50 @@
+# Slow version
+using OrdinaryDiffEq, BenchmarkTools
+
+const Nx = 1024
+function wrap(i)
+    if i < 1
+        return i + Nx
+    elseif i > Nx
+        return i - Nx
+    else
+        return i
+    end
+end
+
+function burgers(du, u, p, t)
+    dx, Nx, v = p
+    
+    for i in 1:Nx
+        if u[i] < 0 
+            du[i] = -u[i]*(u[wrap(i+1)] - u[i])/dx + v*(u[wrap(i-1)] - 2*u[i] + u[wrap(i+1)])/dx^2
+        elseif u[i] > 0
+            du[i] = -u[i]*(u[i] - u[wrap(i-1)])/dx + v*(u[wrap(i-1)] - 2*u[i] + u[wrap(i+1)])/dx^2
+        else
+            du[i] = v*(u[wrap(i-1)] - 2*u[i] + u[wrap(i+1)])/dx^2
+        end
+    end
+    nothing
+end
+dx = 2/(Nx -1)
+x =-1.0:dx:1.0
+v = 0.01
+p = (dx, Nx, v)
+sinsin(x) = 0.11*cospi(4x)+0.75
+u0 = sinsin.(x)
+prob = ODEProblem{true, SciMLBase.FullSpecialize}(burgers, u0, (0.0, 1.0), p)
+
+sol = solve(prob, Euler(), reltol=1e-4, saveat=0.01, dt=1e-4);
+@btime solve(prob, Euler(), reltol=1e-4, saveat=0.01, dt=1e-4);
+
+using Plots
+anim = @animate for i in eachindex(sol.t)
+    plot(x, sol.u[i], title = "t = $(sol.t[i])")
+end
+gif(anim, "pdebenchburgers.gif", fps = 20)
+
+# Optimized version
+
 using OrdinaryDiffEq, BenchmarkTools, LoopVectorization, LinearSolve
 
 const Nx = 1024
