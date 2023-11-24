@@ -1,4 +1,33 @@
-# Autumn school 2023
+# Workshop, December 2023
+Presentations during the workshop on scientific machine learning, 6-8 December 2023, CWI Amsterdam.
+
+## Wednesday 6 December, Scientific computing with machine learning
+Machine-learning-enhanced numerical methods, physics-informed machine learning
+- Jan Hesthaven (ETH)
+- Dongwei Ye (Twente)
+- Benjamin Sanderse (CWI)
+- Stefania Fresca (Milan)
+- Richard Dwight (Delft)
+- Xiaodong Cheng (Wageningen)
+
+## Thursday 7 December, Scientific computing for machine learning
+Mathematical and computational theories for machine learning
+
+- Sid Mishra (EPFL)
+- Aron Jansen (eScience center)
+- Silke Glas (Twente)
+- Andrea Walther (Berlin)
+- Matthias Möller (Delft)
+
+## Friday 8 December, Scientific machine learning in applications
+Hybrid modeling and simulation for large-scale systems
+
+- Dirk Hartmann (Siemens)
+- Quercus Hernández Laín (Zaragoza)
+
+--- 
+
+# Autumn school, October 2023
 
 Course material for the autumn school in scientific machine learning, 9-13 October 2023, CWI Amsterdam.
 
