@@ -3,7 +3,7 @@ Presentations during the workshop on scientific machine learning, 6-8 December 2
 
 ## Wednesday 6 December, Scientific computing with machine learning
 Machine-learning-enhanced numerical methods, physics-informed machine learning
-- Jan Hesthaven (ETH)
+- Jan Hesthaven (EPFL): [slides](presentations/Hesthaven_CWIWorkshop2023.pdf) 
 - Dongwei Ye (Twente)
 - Benjamin Sanderse (CWI)
 - Stefania Fresca (Milan)
@@ -23,7 +23,7 @@ Mathematical and computational theories for machine learning
 Hybrid modeling and simulation for large-scale systems
 
 - Dirk Hartmann (Siemens)
-- Quercus Hernández Laín (Zaragoza)
+- Quercus Hernández Laín (Zaragoza): [slides](presentations/Quercus_Hernandez.pdf)
 
 --- 
 
