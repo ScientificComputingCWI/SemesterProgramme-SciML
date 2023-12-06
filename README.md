@@ -4,11 +4,11 @@ Presentations during the workshop on scientific machine learning, 6-8 December 2
 ## Wednesday 6 December, Scientific computing with machine learning
 Machine-learning-enhanced numerical methods, physics-informed machine learning
 - Jan Hesthaven (EPFL): [slides](presentations/Hesthaven_CWIWorkshop2023.pdf) 
-- Dongwei Ye (Twente)
+- Xiaodong Cheng (Wageningen): [slides](presentations/XiaodongCheng.pdf)
 - Benjamin Sanderse (CWI): [slides](presentations/Sanderse_closure_models.pdf)
 - Stefania Fresca (Milan)
 - Richard Dwight (Delft): [slides](presentations/Dwight.pdf)
-- Xiaodong Cheng (Wageningen): [slides](presentations/XiaodongCheng.pdf)
+- Dongwei Ye (Twente)
 
 ## Thursday 7 December, Scientific computing for machine learning
 Mathematical and computational theories for machine learning
