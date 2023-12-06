@@ -13,10 +13,10 @@ Machine-learning-enhanced numerical methods, physics-informed machine learning
 ## Thursday 7 December, Scientific computing for machine learning
 Mathematical and computational theories for machine learning
 
-- Sid Mishra (EPFL)
+- Sid Mishra (EPFL): [slides](presentations/Mishra.pdf)
 - Aron Jansen (eScience center)
 - Silke Glas (Twente)
-- Andrea Walther (Berlin)
+- Andrea Walther (Berlin): [slides](presentations/AndreaWalther.pdf)
 - Matthias Möller (Delft)
 
 ## Friday 8 December, Scientific machine learning in applications
