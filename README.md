@@ -17,7 +17,7 @@ Mathematical and computational theories for machine learning
 - Aron Jansen (eScience center)
 - Silke Glas (Twente)
 - Andrea Walther (Berlin): [slides](presentations/AndreaWalther.pdf)
-- Matthias Möller (Delft)
+- Matthias Möller (Delft): [slides](presentations/Moeller.pdf)
 
 ## Friday 8 December, Scientific machine learning in applications
 Hybrid modeling and simulation for large-scale systems
