@@ -22,7 +22,7 @@ Mathematical and computational theories for machine learning
 ## Friday 8 December, Scientific machine learning in applications
 Hybrid modeling and simulation for large-scale systems
 
-- Dirk Hartmann (Siemens)
+- Dirk Hartmann (Siemens): [slides](presentations/Hartmann.pdf)
 - Quercus Hernández Laín (Zaragoza): [slides](presentations/Quercus_Hernandez.pdf)
 
 --- 
