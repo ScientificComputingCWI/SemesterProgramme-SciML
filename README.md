@@ -1,5 +1,8 @@
 # Workshop, December 2023
-Presentations during the workshop on scientific machine learning, 6-8 December 2023, CWI Amsterdam.
+
+=> **[Evaluation form](https://forms.gle/wbvmq6PZjz2knSpH7)**
+
+Below you can find the presentations during the workshop on scientific machine learning, 6-8 December 2023, CWI Amsterdam.
 
 ## Wednesday 6 December, Scientific computing with machine learning
 Machine-learning-enhanced numerical methods, physics-informed machine learning
