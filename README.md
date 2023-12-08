@@ -18,7 +18,7 @@ Mathematical and computational theories for machine learning
 
 - Sid Mishra (EPFL): [slides](presentations/Mishra.pdf)
 - Aron Jansen (eScience center)
-- Silke Glas (Twente)
+- Silke Glas (Twente): [slides](presentations/Glas.pdf)
 - Andrea Walther (Berlin): [slides](presentations/AndreaWalther.pdf)
 - Matthias Möller (Delft): [slides](presentations/Moeller.pdf)
 
