@@ -13,7 +13,7 @@ Machine-learning-enhanced numerical methods, physics-informed machine learning
 - Benjamin Sanderse (CWI): [slides](presentations/Sanderse_closure_models.pdf)
 - Stefania Fresca (Milan)
 - Richard Dwight (Delft): [slides](presentations/Dwight.pdf)
-- Dongwei Ye (Twente)
+- Dongwei Ye (Twente): [slides](presentations/Ye.pdf)
 
 ## Thursday 7 December, Scientific computing for machine learning
 Mathematical and computational theories for machine learning
