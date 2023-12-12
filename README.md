@@ -2,6 +2,8 @@
 
 => **[Evaluation form](https://forms.gle/wbvmq6PZjz2knSpH7)**
 
+![Group picture](pictures/SciMLWorkshop_group_photo.jpg)
+
 Below you can find the presentations during the workshop on scientific machine learning, 6-8 December 2023, CWI Amsterdam.
 
 ## Wednesday 6 December, Scientific computing with machine learning
@@ -17,7 +19,7 @@ Machine-learning-enhanced numerical methods, physics-informed machine learning
 Mathematical and computational theories for machine learning
 
 - Sid Mishra (EPFL): [slides](presentations/Mishra.pdf)
-- Aron Jansen (eScience center)
+- Aron Jansen (eScience center): [slides](presentations/Jansen.pdf)
 - Silke Glas (Twente): [slides](presentations/Glas.pdf)
 - Andrea Walther (Berlin): [slides](presentations/AndreaWalther.pdf)
 - Matthias Möller (Delft): [slides](presentations/Moeller.pdf)
