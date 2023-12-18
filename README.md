@@ -1,7 +1,5 @@
 # Workshop, December 2023
 
-=> **[Evaluation form](https://forms.gle/wbvmq6PZjz2knSpH7)**
-
 ![Group picture](pictures/SciMLWorkshop_group_photo.jpg)
 
 Below you can find the presentations during the workshop on scientific machine learning, 6-8 December 2023, CWI Amsterdam.
